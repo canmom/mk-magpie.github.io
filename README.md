@@ -1,2 +1,2 @@
-# mk-magpie.github.io
+# Marya-Kubileya
 A website for the Marya-Kubileya Faith
